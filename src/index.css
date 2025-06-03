@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#mai{
+    
+    font-family: Neue Haas Grotesk Display Pro;
+}
+#img1{
+   overflow: hidden;
+   z-index: 30;
+    position: absolute;
+    align-items: center;
+    margin-left: 100px;
+    border-radius: 30px;
+    margin-top: 50px;
+    height: 650px;
+    opacity: 90%;
+    box-shadow: 30px 30px 30px rgba(181, 54, 54, 0.5);
+}
+span.growing{
+  background-color: red;
+}
